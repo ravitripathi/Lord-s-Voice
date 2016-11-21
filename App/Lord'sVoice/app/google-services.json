@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "484268568730",
+    "firebase_url": "https://lords-voice.firebaseio.com",
+    "project_id": "lords-voice",
+    "storage_bucket": "lords-voice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484268568730:android:4c894a857053f470",
+        "android_client_info": {
+          "package_name": "com.wordpress.obliviouscode.lordsvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484268568730-ee05namn1ve2sg5da0icqkhr5gum9pvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.obliviouscode.lordsvoice",
+            "certificate_hash": "FE122C5886FA197162676BAD73857D6DAA16713A"
+          }
+        },
+        {
+          "client_id": "484268568730-2bi04bqama989ahtdfvp92hmna7mn9so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4n6WbbLzBIngBI2BvoWkGGG0kvR8ZH1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484268568730-2bi04bqama989ahtdfvp92hmna7mn9so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
