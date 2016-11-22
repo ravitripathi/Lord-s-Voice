@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lord\'s Voice</string>
+    <string name="web_client_id">618981646763-1rrcmn1nsm51lbd2d4ao6feus3pm85un.apps.googleusercontent.com</string>
+    <string name="loading">loading</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
